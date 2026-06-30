@@ -151,4 +151,6 @@ CineFlix protects backend operations using **Upstash Redis**:
 
 ## 🎬 Demo Video
 
-![Demo video](demo.gif)
+Watch the demo on YouTube: https://youtu.be/g7_PTb8kPj8
+
+[![Demo video](https://img.youtube.com/vi/g7_PTb8kPj8/hqdefault.jpg)](https://youtu.be/g7_PTb8kPj8)
