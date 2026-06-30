@@ -146,3 +146,9 @@ All backend routes are protected under rate limiting.
 CineFlix protects backend operations using **Upstash Redis**:
 - **Limiting Policy:** 100 requests per sliding window of 60 seconds.
 - **Frontend Behavior:** If a request receives an HTTP 429 status code, a warning banner triggers at the top of the UI for 10 seconds warning the user to slow down.
+
+---
+
+## 🎬 Demo Video
+
+![Demo video](demo.gif)
